@@ -1,0 +1,7 @@
+streamlit 
+pillow 
+pytesseract 
+PyMuPDF 
+langchain 
+langchain-google-genai 
+python-dotenv
