@@ -1,0 +1,9 @@
+Data Scientist (Marketing Analytics)
+
+Our marketing team is seeking a Data Scientist to analyze complex datasets and deliver actionable insights that will drive our campaign strategies. This role involves building predictive models for customer behavior, creating data visualizations for business stakeholders, and performing statistical analysis. Strong communication skills are as important as technical skills.
+
+must-have
+Strong proficiency in Python and SQL, Experience in statistical analysis and predictive modeling, Ability to communicate complex data to non-technical audiences
+
+nice to have:
+Experience with data visualization tools (e.g., Tableau, Power BI), Knowledge of marketing analytics, Familiarity with cloud environments
